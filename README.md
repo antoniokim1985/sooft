@@ -2,7 +2,18 @@
             NOTAS
 ....................................
 
-Usé python ya que es el lenguaje con el que habitualmente trabajo. Puedo usar JS ya que tengo conocimientos de la misma, usando Jest y Chai en vez de Unitest y Pytest. Preferí usar mi lenguaje más hábil, pero quería aclarar que puedo hacerlo en JS.
+Usé python ya que es el lenguaje con el que habitualmente trabajo. Puedo usar JS ya que tengo conocimientos de la misma, usando Jest y Chai en vez de Unitest y Pytest. Preferí usar mi lenguaje más hábil, pero quería aclarar que puedo hacerlo en JS (con un poco más de dificultad).
+
+Para la ejecución de la misma se deben instalar:
+pip https://pip.pypa.io/en/stable/installation/#
+pip install python
+pip install json
+pip install pytest
+pip install unittest
+pip install selenium
+pip install requests
+pip install regex
+pip install HtmlTestRunner
 
 Dado que frontendtesting corre con Unitest (plataforma sobre la que se monta selenium)
 Los reportes los realiza htmltestrunner
