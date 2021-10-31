@@ -30,4 +30,3 @@ BACKENDTESTING
 
 Vease que no se pueden realizar muchas modificaciones ya que al realizarlas falla el testeo.
 Esto se debe a que los datos a asegurar son datos dados por la consigna-
-
