@@ -33,11 +33,11 @@ frontendtesting.py     #testeo de frontend (orquestador de POM)
 
 POM/                   
 
-   L main.py           #POM referente a página main (de ingreso)
+     L main.py           #POM referente a página main (de ingreso)
    
-   L busqueda.py       #POM referente a proceso de navegación y búsqueda
+     L busqueda.py       #POM referente a proceso de navegación y búsqueda
    
-   L scraping.py       #POM referente a scraping de datos para luego ser utilizados en frontendtesting
+     L scraping.py       #POM referente a scraping de datos para luego ser utilizados en frontendtesting
    
 reportes/
 
