@@ -6,13 +6,21 @@ Usé python ya que es el lenguaje con el que habitualmente trabajo. Puedo usar J
 
 Para la ejecución de la misma se deben instalar:
 pip https://pip.pypa.io/en/stable/installation/#
+
 pip install python
+
 pip install json
+
 pip install pytest
+
 pip install unittest
+
 pip install selenium
+
 pip install requests
+
 pip install regex
+
 pip install HtmlTestRunner
 
 Dado que frontendtesting corre con Unitest (plataforma sobre la que se monta selenium)
