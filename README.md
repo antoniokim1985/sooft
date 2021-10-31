@@ -28,14 +28,23 @@ Se puede ver la siguiente estructura de archivos
 ----------------------------------------------------
 
 backendtesting.py      #testeo de backend
+
 frontendtesting.py     #testeo de frontend (orquestador de POM)
+
 POM/                   
+
    L main.py           #POM referente a página main (de ingreso)
+   
    L busqueda.py       #POM referente a proceso de navegación y búsqueda
+   
    L scraping.py       #POM referente a scraping de datos para luego ser utilizados en frontendtesting
+   
 reportes/
+
        L Backendtesting.html                              #reporte que se genera automaticamente cuando ejecuto la prueba de back
+       
        L Test_Results__main__Frontendtesting_~.html       #reporte que se genera automaticamente cuando ejecuto la prueba de front
+       
 
 
 ----------------------------------------------------
